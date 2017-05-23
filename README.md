@@ -45,3 +45,9 @@ That out of the way... the high level is:
 * A Teensy 2.0 (https://www.pjrc.com/store/teensy.html). Other micros will work too, but if you're planning to use the `tmk` firmware it needs to be at ATMEGA of some sort. The Teensy 2.0 is a populat choice. Note: Newer Teensy's are much more powerful, but don't have ATMEGAs!
 * Wire for the matrix
 * Diodes for the matrix. I used 1N4148's but nearly anything will work (there aren't really any current or voltage constraints here). The specific ones I used are (https://www.amazon.com/gp/product/B00UXPVLEG)
+
+# Other Info
+http://www.keyboard-layout-editor.com/ is a great tool for prototyping keyboard layouts. If you have an idea you want to explore, I recommend playing with it. Unfortunately I'm not sure I generated a layout for this one (I can't find it at least).
+
+Once you've created a layout with Keyboard Layout Editor you can pour it into http://builder.swillkb.com/, which can then generate files which can be laser cut or sent out for fabrication.
+

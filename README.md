@@ -4,6 +4,7 @@ A mechanical keyboard, Raspberry-Pi, battery and display all in one 24" wide box
 It was built to make it comfortable to work in a UNIX terminal on the train. Though it turns out that staring straight down at the display isn't great long term.
 
 [Adafruit found it](https://blog.adafruit.com/2017/05/21/maker-faire-bay-area-2017-commute-deck-rpi-workstation-makerfaire-raspberrypi/) at Maker Fair(e)!
+Then [Make published my blog about it](http://makezine.com/2017/06/15/commute-deck-keyboard-device/)(with more description of the process of building it), and [BoingBoing found it too!](http://boingboing.net/2017/06/16/cyberspace-is-everting.html).
 
 # What's it Made Of?
 The big pieces are
